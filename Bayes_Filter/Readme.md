@@ -2,9 +2,9 @@
 In probability theory, statistics, and machine learning, recursive Bayesian estimation, also known as a Bayes filter, is a general probabilistic approach for estimating an unknown Probability Density Function (PDF) recursively over time using incoming measurements and a mathematical process model.
 
 ## Filter Equations:
- &xmacr; = x * f<sub>x</sub>( &bull; ) &emsp; Predict Step
+ x&#772; = x * f<sub>x</sub>( &bull; ) &emsp; Predict Step
  <br>
- x = &vert;&vert; &Lscr; &period; &xmacr; &vert;&vert; &emsp; Update Step
+ x = &vert;&vert; &Lscr; &period; x&#772; &vert;&vert; &emsp; Update Step
 
 &Lscr; is the likelihood function. The &vert;&vert; &vert;&vert; notation denotes taking the norm. We need to normalize the product of the likelihood with the prior to ensure x is a probability distribution that sums to one.
 
