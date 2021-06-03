@@ -1,4 +1,4 @@
-# **Object Detection and Tracking Unscented Kalman Filter**
+# **Object Detection and Tracking using Unscented Kalman Filter**
 
 ## Kalman Filters variances
 
